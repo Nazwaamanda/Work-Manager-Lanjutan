@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WorkManagerExample</string>
+    <string name="image_downloading">Image Downloading Using Work Manager</string>
+    <string name="start_image_download">Start Image Download</string>
+    <string name="image_download">image_download</string>
+    <string name="work_manager_info">Work Manager Info</string>
+    <string name="query_work_info">Query Work Info</string>
+    <string name="progress">Progress 0%</string>
+    <plurals name="text_work_desc">
+        <item quantity="one">Work Manager Completed %d task</item>
+        <item quantity="other">Work Manager Completed %d tasks</item>
+    </plurals>
+</resources>
